@@ -1,2 +1,5 @@
 # Autoencoders
-This course will take a look at autoencoders and their applications will help you see how autoencoders are used in dimensionality reduction and denoising. You will implement an artificial neural network and an autoencoder using the Keras framework. By the end of this course, you will be able to implement an autoencoder model using convolutional neural networks.
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Autoencoders.svg)](https://github.com/Develop-Packt/Autoencoders/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Autoencoders.svg)](https://github.com/Develop-Packt/Autoencoders/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Autoencoders.svg)](https://github.com/Develop-Packt/Autoencoders/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Autoencoders/pulls)
